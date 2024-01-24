@@ -1,5 +1,5 @@
 # Requirements
-Download requirements as needed
+pip3 install -r requirements.txt
 
 # Usage
 
