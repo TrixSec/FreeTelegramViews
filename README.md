@@ -3,7 +3,9 @@ pip3 install -r requirements.txt
 
 # Usage
 
-python3 tgfreeview_7r1x.py <link> <type> <count>
-link :- post link 
-type :- proxy type (http,mix,socks4,socks5)
-count:- views count
+Use Only This Command
+python3 tviews.py --mode auto --channel {channel name} --post {post number}
+
+# Exmaple
+
+python3 tviews.py --mode auto --channel Trixsec --post 125
