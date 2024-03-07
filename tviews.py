@@ -101,9 +101,11 @@ class Telegram:
 
     def cli(self):
         logo = '''
-        ~ Telegram Auto Views V4 ~
-          ~ github.com/Trixsec ~
+        ~ Telegram Auto Views V2 ~
+          ~ github.com/TrixSec ~
                ~ @zpgod ~
+              ~ IG @o.xterz ~
+                        
         '''
         while not self.sucsess_sent:
             print(logo)
